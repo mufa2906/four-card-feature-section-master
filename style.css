@@ -86,6 +86,10 @@ h1 {
   #project-section {
     margin-top: 4rem;
   }
+  #project-section article {
+    width: 380px;
+    height: 250px;
+  }
 }
 
 @media (min-width: 1440px) {
