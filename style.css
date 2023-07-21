@@ -53,7 +53,7 @@ h1 {
 
 #project-section article {
   background-color: white;
-  padding: 1.5rem;
+  padding: 0.5rem 2rem;
   border-radius: 0.5rem;
   box-shadow: 0 1rem 1.5rem   hsla(212, 86%, 64%, 0.2);
   display: flex;
